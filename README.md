@@ -1,5 +1,5 @@
-# adventure
- multi-layered parallax
-- HTML CSS JS 
+# Adventure multi-layered parallax 
 
-# http://www.konstantyw.pl/kopia
+## Example
+
+[demo](http://www.konstantyw.pl/kopia)
